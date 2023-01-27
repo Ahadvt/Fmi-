@@ -1,0 +1,10 @@
+{
+  "buildpacks": [
+    {
+      "url": "https://github.com/drnic/heroku-buildpack-imagemagick-webp"
+    },
+    {
+      "url": "heroku/ruby"
+    }
+  ]
+}
